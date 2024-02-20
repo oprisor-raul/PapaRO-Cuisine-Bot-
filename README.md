@@ -4,4 +4,4 @@ A simple two-file JS-based UI for interacting with PapaRO's Cuisine Recommandati
 
 Add you ChatGPT API key in OPENAI_KEY.txt in the root folder
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot.jpg)
